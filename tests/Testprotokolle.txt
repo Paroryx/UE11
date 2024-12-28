@@ -1,0 +1,917 @@
+Testprotokoll A1:
+1.
+How many Hangman do you want to play? 2
+Type the Word for game #0 > bun
+Type the Word for game #1 > bird
+Word 1
+        _ _ _  (3)
+ ________
+ |      |
+ |
+ |
+ |
+ |
+_|_
+Remaining lives: 4
+
+Word 2
+        _ _ _ _  (4)
+ ________
+ |      |
+ |
+ |
+ |
+ |
+_|_
+Remaining lives: 4
+
+Which letter do you want to guess? b
+Which word (number) do you want to play? 1
+ Your guess was correct!
+Word 1
+        B _ _  (3)
+ ________
+ |      |
+ |
+ |
+ |
+ |
+_|_
+Remaining lives: 4
+
+Word 2
+        _ _ _ _  (4)
+ ________
+ |      |
+ |
+ |
+ |
+ |
+_|_
+Remaining lives: 4
+
+Which letter do you want to guess? b
+Which word (number) do you want to play? 2
+ Your guess was correct!
+Word 1
+        B _ _  (3)
+ ________
+ |      |
+ |
+ |
+ |
+ |
+_|_
+Remaining lives: 4
+
+Word 2
+        B _ _ _  (4)
+ ________
+ |      |
+ |
+ |
+ |
+ |
+_|_
+Remaining lives: 4
+
+Which letter do you want to guess? b
+Which word (number) do you want to play? 1
+ You already guessed that letter. Try again.
+Word 1
+        B _ _  (3)
+ ________
+ |      |
+ |
+ |
+ |
+ |
+_|_
+Remaining lives: 4
+
+Word 2
+        B _ _ _  (4)
+ ________
+ |      |
+ |
+ |
+ |
+ |
+_|_
+Remaining lives: 4
+
+Which letter do you want to guess? w
+Which word (number) do you want to play? 1
+ Incorrect guess. Lives left: 3
+Word 1
+        B _ _  (3)
+ ________
+ |      |
+ |      O
+ |
+ |
+ |
+_|_
+Remaining lives: 3
+
+Word 2
+        B _ _ _  (4)
+ ________
+ |      |
+ |
+ |
+ |
+ |
+_|_
+Remaining lives: 4
+
+Which letter do you want to guess?
+a
+Which word (number) do you want to play? 1
+ Incorrect guess. Lives left: 2
+Word 1
+        B _ _  (3)
+ ________
+ |      |
+ |      O
+ |      |
+ |
+ |
+_|_
+Remaining lives: 2
+
+Word 2
+        B _ _ _  (4)
+ ________
+ |      |
+ |
+ |
+ |
+ |
+_|_
+Remaining lives: 4
+
+Which letter do you want to guess? k
+Which word (number) do you want to play? 1
+ Incorrect guess. Lives left: 1
+Word 1
+        B _ _  (3)
+ ________
+ |      |
+ |      O
+ |     /|\
+ |
+ |
+_|_
+Remaining lives: 1
+
+Word 2
+        B _ _ _  (4)
+ ________
+ |      |
+ |
+ |
+ |
+ |
+_|_
+Remaining lives: 4
+
+Which letter do you want to guess? o
+Which word (number) do you want to play? 1
+ Incorrect guess. Lives left: 0
+ Game over! The word was: BUN
+Word 1
+        B U N  (3)
+ ________
+ |      |
+ |      O
+ |     /|\
+ |     / \
+ |
+_|_
+Remaining lives: 0
+
+Word 2
+        B _ _ _  (4)
+ ________
+ |      |
+ |
+ |
+ |
+ |
+_|_
+Remaining lives: 4
+
+Which letter do you want to guess? i
+Which word (number) do you want to play? 1
+ You already lost! The word was: BUN
+Word 1
+        B U N  (3)
+ ________
+ |      |
+ |      O
+ |     /|\
+ |     / \
+ |
+_|_
+Remaining lives: 0
+
+Word 2
+        B _ _ _  (4)
+ ________
+ |      |
+ |
+ |
+ |
+ |
+_|_
+Remaining lives: 4
+
+Which letter do you want to guess? i
+Which word (number) do you want to play? 2
+ Your guess was correct!
+Word 1
+        B U N  (3)
+ ________
+ |      |
+ |      O
+ |     /|\
+ |     / \
+ |
+_|_
+Remaining lives: 0
+
+Word 2
+        B I _ _  (4)
+ ________
+ |      |
+ |
+ |
+ |
+ |
+_|_
+Remaining lives: 4
+
+Which letter do you want to guess? r
+Which word (number) do you want to play? 2
+ Your guess was correct!
+Word 1
+        B U N  (3)
+ ________
+ |      |
+ |      O
+ |     /|\
+ |     / \
+ |
+_|_
+Remaining lives: 0
+
+Word 2
+        B I R _  (4)
+ ________
+ |      |
+ |
+ |
+ |
+ |
+_|_
+Remaining lives: 4
+
+Which letter do you want to guess? p
+Which word (number) do you want to play? 2
+ Incorrect guess. Lives left: 3
+Word 1
+        B U N  (3)
+ ________
+ |      |
+ |      O
+ |     /|\
+ |     / \
+ |
+_|_
+Remaining lives: 0
+
+Word 2
+        B I R _  (4)
+ ________
+ |      |
+ |      O
+ |
+ |
+ |
+_|_
+Remaining lives: 3
+
+Which letter do you want to guess? ö
+Which word (number) do you want to play? 2
+ Incorrect guess. Lives left: 2
+Word 1
+        B U N  (3)
+ ________
+ |      |
+ |      O
+ |     /|\
+ |     / \
+ |
+_|_
+Remaining lives: 0
+
+Word 2
+        B I R _  (4)
+ ________
+ |      |
+ |      O
+ |      |
+ |
+ |
+_|_
+Remaining lives: 2
+
+Which letter do you want to guess? l 
+Which word (number) do you want to play? 2
+ Incorrect guess. Lives left: 1
+Word 1
+        B U N  (3)
+ ________
+ |      |
+ |      O
+ |     /|\
+ |     / \
+ |
+_|_
+Remaining lives: 0
+
+Word 2
+        B I R _  (4)
+ ________
+ |      |
+ |      O
+ |     /|\
+ |
+ |
+_|_
+Remaining lives: 1
+
+Which letter do you want to guess?
+d
+Which word (number) do you want to play? 1
+ You already lost! The word was: BUN
+Word 1
+        B U N  (3)
+ ________
+ |      |
+ |      O
+ |     /|\
+ |     / \
+ |
+_|_
+Remaining lives: 0
+
+Word 2
+        B I R _  (4)
+ ________
+ |      |
+ |      O
+ |     /|\
+ |
+ |
+_|_
+Remaining lives: 1
+
+Which letter do you want to guess? d
+Which word (number) do you want to play? 1
+ You already lost! The word was: BUN
+Word 1
+        B U N  (3)
+ ________
+ |      |
+ |      O
+ |     /|\
+ |     / \
+ |
+_|_
+Remaining lives: 0
+
+Word 2
+        B I R _  (4)
+ ________
+ |      |
+ |      O
+ |     /|\
+ |
+ |
+_|_
+Remaining lives: 1
+
+Which letter do you want to guess? d
+Which word (number) do you want to play? 2
+ Your guess was correct!
+ Congratulations! You've guessed the word: BIRD
+Word 1
+        B U N  (3)
+ ________
+ |      |
+ |      O
+ |     /|\
+ |     / \
+ |
+_|_
+Remaining lives: 0
+
+Word 2
+        B I R D  (4)
+ ________
+ |      |
+ |      O
+ |     /|\
+ |
+ |
+_|_
+Remaining lives: 1
+
+Thank you for playing MultiHangman
+
+2.
+How many Hangman do you want to play? 2
+Type the Word for game #0 > anna
+Type the Word for game #1 > xyz
+Word 1
+        _ _ _ _  (4)
+ ________
+ |      |
+ |
+ |
+ |
+ |
+_|_
+Remaining lives: 4
+
+Word 2
+        _ _ _  (3)
+ ________
+ |      |
+ |
+ |
+ |
+ |
+_|_
+Remaining lives: 4
+
+Which letter do you want to guess? a 
+Which word (number) do you want to play? 1
+ Your guess was correct!
+Word 1
+        A _ _ A  (4)
+ ________
+ |      |
+ |
+ |
+ |
+ |
+_|_
+Remaining lives: 4
+
+Word 2
+        _ _ _  (3)
+ ________
+ |      |
+ |
+ |
+ |
+ |
+_|_
+Remaining lives: 4
+
+Which letter do you want to guess? o
+Which word (number) do you want to play? 1
+ Incorrect guess. Lives left: 3
+Word 1
+        A _ _ A  (4)
+ ________
+ |      |
+ |      O
+ |
+ |
+ |
+_|_
+Remaining lives: 3
+
+Word 2
+        _ _ _  (3)
+ ________
+ |      |
+ |
+ |
+ |
+ |
+_|_
+Remaining lives: 4
+
+Which letter do you want to guess? n
+Which word (number) do you want to play? 1
+ Your guess was correct!
+ Congratulations! You've guessed the word: ANNA
+Word 1
+        A N N A  (4)
+ ________
+ |      |
+ |      O
+ |
+ |
+ |
+_|_
+Remaining lives: 3
+
+Word 2
+        _ _ _  (3)
+ ________
+ |      |
+ |
+ |
+ |
+ |
+_|_
+Remaining lives: 4
+
+Which letter do you want to guess? g
+Which word (number) do you want to play? 1
+ You already won! :) The word was: ANNA
+Word 1
+        A N N A  (4)
+ ________
+ |      |
+ |      O
+ |
+ |
+ |
+_|_
+Remaining lives: 3
+
+Word 2
+        _ _ _  (3)
+ ________
+ |      |
+ |
+ |
+ |
+ |
+_|_
+Remaining lives: 4
+
+Which letter do you want to guess? a
+Which word (number) do you want to play? 1
+ You already won! :) The word was: ANNA
+Word 1
+        A N N A  (4)
+ ________
+ |      |
+ |      O
+ |
+ |
+ |
+_|_
+Remaining lives: 3
+
+Word 2
+        _ _ _  (3)
+ ________
+ |      |
+ |
+ |
+ |
+ |
+_|_
+Remaining lives: 4
+
+Which letter do you want to guess? a
+Which word (number) do you want to play? 2
+ Incorrect guess. Lives left: 3
+Word 1
+        A N N A  (4)
+ ________
+ |      |
+ |      O
+ |
+ |
+ |
+_|_
+Remaining lives: 3
+
+Word 2
+        _ _ _  (3)
+ ________
+ |      |
+ |      O
+ |
+ |
+ |
+_|_
+Remaining lives: 3
+
+Which letter do you want to guess? r
+Which word (number) do you want to play? 2
+ Incorrect guess. Lives left: 2
+Word 1
+        A N N A  (4)
+ ________
+ |      |
+ |      O
+ |
+ |
+ |
+_|_
+Remaining lives: 3
+
+Word 2
+        _ _ _  (3)
+ ________
+ |      |
+ |      O
+ |      |
+ |
+ |
+_|_
+Remaining lives: 2
+
+Which letter do you want to guess? e
+Which word (number) do you want to play? 2
+ Incorrect guess. Lives left: 1
+Word 1
+        A N N A  (4)
+ ________
+ |      |
+ |      O
+ |
+ |
+ |
+_|_
+Remaining lives: 3
+
+Word 2
+        _ _ _  (3)
+ ________
+ |      |
+ |      O
+ |     /|\
+ |
+ |
+_|_
+Remaining lives: 1
+
+Which letter do you want to guess? l
+Which word (number) do you want to play? 2
+ Incorrect guess. Lives left: 0
+ Game over! The word was: XYZ
+Word 1
+        A N N A  (4)
+ ________
+ |      |
+ |      O
+ |
+ |
+ |
+_|_
+Remaining lives: 3
+
+Word 2
+        X Y Z  (3)
+ ________
+ |      |
+ |      O
+ |     /|\
+ |     / \
+ |
+_|_
+Remaining lives: 0
+
+Thank you for playing MultiHangman!
+
+3.
+How many Hangman do you want to play? 2
+Type the Word for game #0 > ANna
+Type the Word for game #1 > otto
+Word 1
+        _ _ _ _  (4)
+ ________
+ |      |
+ |
+ |
+ |
+ |
+_|_
+Remaining lives: 4  
+
+Word 2
+        _ _ _ _  (4)
+ ________
+ |      |
+ |
+ |
+ |
+ |
+_|_
+Remaining lives: 4
+
+Which letter do you want to guess? t
+Which word (number) do you want to play? 2
+ Your guess was correct!
+Word 1
+        _ _ _ _  (4)
+ ________
+ |      |
+ |
+ |
+ |
+ |
+_|_
+Remaining lives: 4
+
+Word 2
+        _ T T _  (4)
+ ________
+ |      |
+ |
+ |
+ |
+ |
+_|_
+Remaining lives: 4
+
+Which letter do you want to guess? o
+Which word (number) do you want to play? 2
+ Your guess was correct!
+ Congratulations! You've guessed the word: OTTO
+Word 1
+        _ _ _ _  (4)
+ ________
+ |      |
+ |
+ |
+ |
+ |
+_|_
+Remaining lives: 4
+
+Word 2
+        O T T O  (4)
+ ________
+ |      |
+ |
+ |
+ |
+ |
+_|_
+Remaining lives: 4
+
+Which letter do you want to guess? o
+Which word (number) do you want to play? 2
+ You already won! :) The word was: OTTO
+Word 1
+        _ _ _ _  (4)
+ ________
+ |      |
+ |
+ |
+ |
+ |
+_|_
+Remaining lives: 4
+
+Word 2
+        O T T O  (4)
+ ________
+ |      |
+ |
+ |
+ |
+ |
+_|_
+Remaining lives: 4
+
+Which letter do you want to guess? s
+Which word (number) do you want to play? 1
+ Incorrect guess. Lives left: 3
+Word 1
+        _ _ _ _  (4)
+ ________
+ |      |
+ |      O
+ |
+ |
+ |
+_|_
+Remaining lives: 3
+
+Word 2
+        O T T O  (4)
+ ________
+ |      |
+ |
+ |
+ |
+ |
+_|_
+Remaining lives: 4
+
+Which letter do you want to guess? s
+Which word (number) do you want to play? 1
+ You already guessed that letter. Try again.
+Word 1
+        _ _ _ _  (4)
+ ________
+ |      |
+ |      O
+ |
+ |
+ |
+_|_
+Remaining lives: 3
+
+Word 2
+        O T T O  (4)
+ ________
+ |      |
+ |
+ |
+ |
+ |
+_|_
+Remaining lives: 4
+
+Which letter do you want to guess? e
+Which word (number) do you want to play? 1
+ Incorrect guess. Lives left: 2
+Word 1
+        _ _ _ _  (4)
+ ________
+ |      |
+ |      O
+ |      |
+ |
+ |
+_|_
+Remaining lives: 2
+
+Word 2
+        O T T O  (4)
+ ________
+ |      |
+ |
+ |
+ |
+ |
+_|_
+Remaining lives: 4
+
+Which letter do you want to guess? r
+Which word (number) do you want to play? 1
+ Incorrect guess. Lives left: 1
+Word 1
+        _ _ _ _  (4)
+ ________
+ |      |
+ |      O
+ |     /|\
+ |
+ |
+_|_
+Remaining lives: 1
+
+Word 2
+        O T T O  (4)
+ ________
+ |      |
+ |
+ |
+ |
+ |
+_|_
+Remaining lives: 4
+
+Which letter do you want to guess? p
+Which word (number) do you want to play? 1
+ Incorrect guess. Lives left: 0
+ Game over! The word was: ANNA
+Word 1
+        A N N A  (4)
+ ________
+ |      |
+ |      O
+ |     /|\
+ |     / \
+ |
+_|_
+Remaining lives: 0
+
+Word 2
+        O T T O  (4)
+ ________
+ |      |
+ |
+ |
+ |
+ |
+_|_
+Remaining lives: 4
+
+Thank you for playing MultiHangman!
