@@ -44,6 +44,40 @@ This exercise focuses on stepwise refinement to implement **Multi-Hangman**, a v
   - Invalid inputs (e.g., selecting a non-existing word, entering invalid characters).  
 
 ---
+## 🎮 How to Play  
+
+1. **Setup the Game:**  
+   - The player starts by entering how many games (words) they want to play.  
+   - For each game, the player inputs a word to guess. Example:  
+     ```
+     How many Hangman do you want to play? 2  
+     Type the Word for game #0 > bun  
+     Type the Word for game #1 > bird  
+     ```
+
+2. **Guess Letters:**  
+   - Each round, the player is prompted to guess a letter and choose which word (number) to play. Example:  
+     ```
+     Which letter do you want to guess? b  
+     Which word (number) do you want to play? 1  
+     ```
+
+3. **Feedback on Guesses:**  
+   - **Correct Guess:** The guessed letter is revealed in the word.  
+   - **Incorrect Guess:** One life is lost for that word, and the hangman figure progresses.  
+
+4. **Game Over Conditions:**  
+   - **Win:** The player guesses all letters for every word.  
+   - **Lose:** A word’s lives reach zero, and the game reveals the word.  
+
+5. **Game States:**  
+   - Players are informed about their progress, including guessed letters, remaining lives, and hangman visuals for each word.  
+
+6. **Special Scenarios:**  
+   - **Duplicate Guesses:** If a letter is guessed again, the player is reminded that it was already guessed.  
+   - **Completed Words:** If the word is already won or lost, the game skips further interaction with it.  
+
+---
 
 ## 🛠 Tools  
 - **Programming Language:** Java  
